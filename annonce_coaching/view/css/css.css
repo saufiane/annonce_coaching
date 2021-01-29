@@ -1,0 +1,26 @@
+/* class de test */
+.test {
+    border: red 10 px solid;
+}
+.testEnfant {
+    border: greenyellow 50 px solid;
+}
+
+body {
+    background: url('../img/montro_club.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+.ok {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+.div {
+    opacity: 2;
+}
+
+}
